@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-homework_test
+Это репозиторий для хранения ДЗ от курса Stepik
